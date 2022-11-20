@@ -1,6 +1,6 @@
 import json
 
-class Word_Classification:
+class WordClassification:
     def __init__(self):
         with open('words.json', encoding='utf-8') as f:
             self.data = json.load(f)
