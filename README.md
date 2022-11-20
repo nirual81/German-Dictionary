@@ -12,7 +12,7 @@ In der words.json sind folgende Wörter / Namen aufgelistet:
 - Adjective
 - Adverben
 
-Diese Liste ist nicht KOMPLETT! Falls Wörter fehlen oder falsch eingedragen sind, dann meldet es gerne.
+Diese Liste ist nicht KOMPLETT! Falls Wörter fehlen oder falsch eingetragen sind, dann meldet es gerne.
 Des weiteren findet ihr ein Python Modul mit dem die Liste nach Wörtern durchsucht werden kann.
 
 from WordClassificator.py import WordClassification
