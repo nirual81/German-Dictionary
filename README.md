@@ -1,6 +1,6 @@
-In diesem Projekt geht es um ein Wörterbuc, welches sehr zuverlässig
-und ausführlich werden soll. Fällt euch also auf dass ein Wort fehlt
-oder falsch eingetragen wurde, könnt ihr euch gerne bei mir melden
+In diesem Projekt geht es um ein Wörterbuch, welches sehr zuverlässig
+und ausführlich werden soll. Fällt euch also auf, dass ein Wort fehlt
+oder falsch eingetragen wurde, könnt ihr euch gerne bei mir melden.
 In der words.json sind folgende Wörter / Namen aufgelistet:
 
 - Firmennamem
@@ -12,10 +12,11 @@ In der words.json sind folgende Wörter / Namen aufgelistet:
 - Adjective
 - Adverben
 
-Diese Liste ist nicht KOMPLETT! Falls Wörter fehlen oder falsch eingetragen sind, dann meldet es gerne.
+
+Diese Liste ist nicht komplett und in einigen Kategorien unvollständig! Falls Wörter fehlen oder falsch eingetragen sind, dann meldet es gerne.
 Des weiteren findet ihr ein Python Modul mit dem die Liste nach Wörtern durchsucht werden kann.
 
-from WordClassificator.py import WordClassification
+from WordClassificator import WordClassification
 
 wc = WordClassification()       # Lädt die words.json File mit dem argument path="/path/to/words.json" kann man den Speicherort angeben
 
