@@ -1,4 +1,6 @@
-In diesem Projekt geht es um eine art von Wörterbuch. 
+In diesem Projekt geht es um ein Wörterbuc, welches sehr zuverlässig
+und ausführlich werden soll. Fällt euch also auf dass ein Wort fehlt
+oder falsch eingetragen wurde, könnt ihr euch gerne bei mir melden
 In der words.json sind folgende Wörter / Namen aufgelistet:
 
 - Firmennamem
